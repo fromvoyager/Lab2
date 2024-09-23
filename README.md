@@ -2,7 +2,7 @@
 
 The main topic of this first lab activity is branching and merging in git.
 
-## Resources and Acknowledgements
+## Resources and Acknowledgements test
 
 https://www.atlassian.com/git/tutorials/using-branches contains an excellent, detailed
 walkthrough of the steps we will be going through in the lab. We encourage you to use
